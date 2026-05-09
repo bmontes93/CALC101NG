@@ -12,29 +12,29 @@
   [![Vite](https://img.shields.io/badge/Bundler-Vite_8-646CFF.svg?logo=vite)](#)
 
   <h3>
-    <a href="https://calc101-web.onrender.com">🚀 Probar Aplicación en Vivo</a>
+    <a href="https://calc101-web.onrender.com"> Probar Aplicación en Vivo</a>
   </h3>
 </div>
 
 <br />
 
-> **Aviso de Propiedad Intelectual**: Este repositorio funciona como *Portafolio ShowCase*. El código fuente completo (Frontend Web y el Motor Backend FastAPI+SymPy) se mantiene en un monorepo privado para proteger la propiedad intelectual de la lógica y los algoritmos matemáticos desarrollados por [Bryan Montes](https://github.com/bmontes93).
+> **Aviso de Propiedad Intelectual**: Propiedad intelectual de la lógica y los algoritmos matemáticos desarrollados por [Bryan Montes](https://github.com/bmontes93).
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
 Calc101 no es solo una calculadora, es un tutor matemático interactivo. He diseñado la interfaz enfocándome en una experiencia de usuario (UX) inmersiva y educativa:
 
-*   **⌨️ Editor WYSIWYG Nativo (MathLive):** Olvídate de escribir código. El teclado matemático virtual te permite escribir integrales, potencias y fracciones de forma tan natural como en un papel.
-*   **🧠 Desglose Paso a Paso:** No solo te da el resultado final. Calc101 te explica cada paso, desde la aplicación de la regla de la cadena hasta la transposición de términos en un polinomio.
-*   **📈 Gráficas Dinámicas (Function-Plot):** Visualiza automáticamente la parábola de tu ecuación cuadrática o la región sombreada de tus inecuaciones con gráficos interactivos 2D.
-*   **⚡ Arquitectura Desacoplada de Alta Velocidad:** Interfaz React ultraligera conectada a un poderoso motor Python/FastAPI que procesa matemática simbólica en milisegundos.
-*   **🎨 Diseño Premium Glassmorphism:** Estética moderna, modo oscuro por defecto y micro-interacciones (Framer Motion) que hacen que aprender matemáticas sea visualmente atractivo.
+*   ** Editor WYSIWYG Nativo (MathLive):** Olvídate de escribir código. El teclado matemático virtual te permite escribir integrales, potencias y fracciones de forma tan natural como en un papel.
+*   ** Desglose Paso a Paso:** No solo te da el resultado final. Calc101 te explica cada paso, desde la aplicación de la regla de la cadena hasta la transposición de términos en un polinomio.
+*   ** Gráficas Dinámicas (Function-Plot):** Visualiza automáticamente la parábola de tu ecuación cuadrática o la región sombreada de tus inecuaciones con gráficos interactivos 2D.
+*   ** Arquitectura Desacoplada de Alta Velocidad:** Interfaz React ultraligera conectada a un poderoso motor Python/FastAPI que procesa matemática simbólica en milisegundos.
+*   ** Diseño Premium Glassmorphism:** Estética moderna, modo oscuro por defecto y micro-interacciones (Framer Motion) que hacen que aprender matemáticas sea visualmente atractivo.
 
 ---
 
-## 🛠️ Capacidades del Motor Matemático
+##  Capacidades del Motor Matemático
 
 Aunque la lógica es privada, el motor en la nube es capaz de resolver problemas complejos en las siguientes áreas:
 
@@ -54,7 +54,7 @@ Aunque la lógica es privada, el motor en la nube es capaz de resolver problemas
 
 ---
 
-## 🏗️ Stack Tecnológico
+##  Stack Tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,vite,python,fastapi,docker,githubactions" alt="Tech Stack" />
