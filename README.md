@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bmontes93/CALC101NG/main/public/favicon.svg" alt="Calc101 Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/bmontes93/CALC101NG/main/logo.png" alt="Calc101 Logo" width="120" />
   
   # Calc101: Plataforma Matemática Simbólica
   
