@@ -67,8 +67,7 @@ Aunque la lógica es privada, el motor en la nube es capaz de resolver problemas
 ---
 
 <div align="center">
-  <p>Construido con pasión por la tecnología y la educación matemática.</p>
-  <a href="https://github.com/bmontes93">
+    <a href="https://github.com/bmontes93">
     <img src="https://img.shields.io/badge/GitHub-bmontes93-181717.svg?logo=github" alt="GitHub bmontes93" />
   </a>
   <a href="https://calc101-web.onrender.com">
